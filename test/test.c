@@ -9,6 +9,8 @@
 
 int main()
 {
+    blt_print_msg();
+
     const WIDTH = 800;
 	const HEIGHT = 600;
 
